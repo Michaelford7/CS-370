@@ -1,4 +1,4 @@
-# CS-370 - Pirate Intelligent Agent
+# CS-370  Pirate Intelligent Agent
 
 What code were you given, and what code did you create yourself?
 
